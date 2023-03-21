@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+.container{
+
+    text-align: left;
+    
+}
+
+.elementos{
+  
+    background-color: #00425A;
+    padding: 5px;
+    height: 50px;
+    border-radius: 7px;
+
+}
